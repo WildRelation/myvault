@@ -1,1 +1,1 @@
-New note
+This is a test
