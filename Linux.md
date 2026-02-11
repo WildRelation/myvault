@@ -1,0 +1,6 @@
+- **`Mod + Espacio`**: Presiónalo para [[cambiar de layout]]. Busca el icono en la esquina superior derecha que parece una cuadrícula lateral.
+- Mod + Shift + Espacio`**: Vuelve al layout anterior.
+- Mod + l: Aumenta el ancho de la ventana principal.
+- Mod + h: Disminuye el ancho.
+- Mod + Shift + j: Mueve la ventana enfocada hacia "adelante" en el orden.
+- Mod + Shift + k: Mueve la ventana enfocada hacia "atrás".
