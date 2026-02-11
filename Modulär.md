@@ -1,0 +1,1 @@
+Det innebär att programmet är uppbyggt av separata, självständiga, komponenter eller moduler. Varje modul representerar en specifik funktion, eller specifik ansvar inom programmet. Några aspekter är självständighet, [[kapsling]] , återanvändbarhet, lägre komplexitet och tydlighet.

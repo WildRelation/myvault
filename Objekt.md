@@ -1,0 +1,2 @@
+Ett objekt är en instans av en [[klass]], den har egna datamedlemmar som representerar dess tillstånd och [[metoder]] . Det kan interagera med andra objekt.
+Objekt hanteras via [[referensvariabel]] vilket gör att den endast pekar på ett objekt av rätt typ eller ingen alls (null).

@@ -1,0 +1,1 @@
+Polymorfism  tillåter metoder att använda objekt av olika typer genom en gemensam gränssnitt: [[kompileringspolymorfism]] (metodöverlagring) och [[körningstidspolymorfism]] (Metodöverskridning)

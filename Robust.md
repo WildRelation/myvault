@@ -1,0 +1,1 @@
+Koden ska hantera undantag vilket undviker krash i programmet

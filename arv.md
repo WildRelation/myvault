@@ -1,0 +1,2 @@
+En klass kan ärva public eller protected datamedlemmar och metoder från en annan klass. Datamedlemmar som är private är inte synlig för subklassen.
+Vi har arv med syftet att återanvända kod från superklassen samt gör koden mer modulär.

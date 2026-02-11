@@ -1,0 +1,1 @@
+Adress på objektet, inte själva objektet som ligger i heap. 
